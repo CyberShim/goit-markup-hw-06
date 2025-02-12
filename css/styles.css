@@ -450,7 +450,7 @@ p {
 /*-------------------------- 💻 1158px Десктоп ----------------*/
 @media screen and (min-width: 1158px) {
   .hero {
-    max-width: 1140px;
+    max-width: 1440px;
     padding: 188px 0;
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.7),
@@ -742,10 +742,6 @@ p {
 }
 /*----------------------- 📲 768px - Планшети ------------------*/
 @media screen and (min-width: 768px) {
-  /* .portfolio-conteiner {
-    padding-left: 16px;
-    padding-right: 16px;
-  } */
   .portfolio-list {
     flex-direction: row;
     flex-wrap: wrap;
